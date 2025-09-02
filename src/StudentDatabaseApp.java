@@ -101,7 +101,7 @@ public class StudentDatabaseApp {
         System.out.println("│  4. Search Students by Name                     │");
         System.out.println("│  5. Update Student Information                  │");
         System.out.println("│  6. Delete Student                              │");
-        System.out.println("│  7. Exit Application                            │");
+        System.out.println("│  7. Exit Application                            |");
         System.out.println("└─────────────────────────────────────────────────┘");
     }
 
