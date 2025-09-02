@@ -97,7 +97,7 @@ public class StudentDatabaseApp {
         System.out.println("┌─────────────────── MAIN MENU ───────────────────┐");
         System.out.println("│  1. Add New Student                             │");
         System.out.println("│  2. View All Students                           │");
-        System.out.println("│  3. Search Student by ID                       │");
+        System.out.println("│  3. Search Student by ID                        │");
         System.out.println("│  4. Search Students by Name                     │");
         System.out.println("│  5. Update Student Information                  │");
         System.out.println("│  6. Delete Student                              │");
