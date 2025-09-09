@@ -1,6 +1,6 @@
 # Student Database Management System
 
-A console-based Java application using JDBC for managing student information in a MySQL database.
+A console based Java application using JDBC for managing student information in a MySQL database.
 
 ## Project Structure
 
@@ -190,26 +190,3 @@ The application handles various error scenarios:
    - The application auto-creates tables on first run
    - Check database permissions
 
-### Performance Tips
-
-- Close connections properly (handled automatically)
-- Use prepared statements (implemented)
-- Validate input before database operations (implemented)
-
-## Contributing
-
-To extend this application:
-
-1. Add new fields to `Student` class
-2. Update database schema in `DatabaseConfig`
-3. Modify validation rules in `InputValidator`
-4. Add new operations in `DatabaseManager`
-5. Update UI in `StudentDatabaseApp`
-
-## License
-
-This project is created for educational purposes. Feel free to modify and distribute.
-
-## Contact
-
-For questions or issues, please refer to your course instructor or create an issue in the project repository.
