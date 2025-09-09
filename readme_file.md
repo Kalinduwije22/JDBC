@@ -1,5 +1,5 @@
 # Student Database Management System
-**Name - W.K.K.G Wijenayake**
+**Name - W.K.K.G Wijenayake**/n
 **Index Number - s16756**
 
 A console based Java application using JDBC for managing student information in a MySQL database.
